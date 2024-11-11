@@ -1,0 +1,639 @@
+---
+title: " Lecture in the Digital Humanism Series, University of Viennae"
+author: "**Mag. Dr. Hannah Metzler** <br> *Complexity Science Hub &  Medical University of Vienna* <br> Digital Humanism Lecture Series"
+date: "13 November 2024"
+format: 
+  revealjs:
+    footer: https://hannahmetzler.eu/dighum
+    transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    #incremental: true
+    aspect-ratio: 16:9
+    slide-number: true
+    speakerNotes: true
+    title-slide: false
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+    # data-background-size: cover
+    # data-background-opacity: "0.5"
+
+#editor
+editor: source
+---
+
+## Overview
+
+-   Emotions do not generally increase irrationality, but have a function (even for misinformation belief)
+-  Beliefs and misinformation sharing are socially motivated, not the result of gullibility
+- Misinformation is a symptom of political polarization, rather than the disease itself
+- Social media and its algorithms reflect political polarization, but are likely not its primary causes
+
+::: notes
+time notes and planning
+
+Overview slides, book/article recommendations, last slide (little time, 30 sec): 4
+Section title slides (no time required, 15 sec): 6
+Normal slides (including 1. title slide): 34 - 9 = 26 normal slides
+I presented 26-4=22 normal slides and 4 overview slides in 50 minutes.
+- Overview: 4x0.5 minutes = 2 minutes
+- 48 minutes for 22 normal slides
+
+Results: 
+- 27.5 normal slides = 1 hour. 
+- Counting normal and quick slides (26 presented in 50 minutes): 26.4 slides/1 hour
+Teaching: 2.2 minutes per normal slide. Rule of thumb: Including quick slides, a bit less than 1/2 as many slides as minutes. If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
+:::
+
+## Digital Humanism - maybe as conclusion?
+
+- What it means to me
+- Talk about the roots of “Digital Humanism” within their disciplinary traditions
+- Creating social media in a way that fosters individual and societal well-being
+- Many problems
+- Challenges: intuition vs. evidence, actual causes of problems, complex issues/systems
+
+
+## Computational Social Science, Psychology
+
+- Strong theory testing, asking good questions
+- strong statistics background: reproducibility in the social sciences/psychology
+- Social media data analysis, machine learning, 
+- complexity science approaches: network analysis, agent-based modeling
+
+
+::: notes
+- Define what “Digital Humanism” means to them
+- Talk about the roots of “Digital Humanism” within their disciplinary traditions
+- Talk about the challenges of “Digital Humanism” from their point of view
+- Talk about the “methods” that ought to be part of an educational program in
+“Digital Humanism”
+:::
+
+::: notes
+potentially use myths on misinfo, social media, emotions etc. as structure?
+
+Story line: 
+- Intro: like digital days
+- There is emotion around news and misinfo - Jula study: true. Mostly anger. 
+
+Questions I want to answer today: 
+- Does it come from person or the news? 
+- For the news:from that fact that its false/misinfo? (misinfo different from true info?)
+- Or from emotion in the misinfo? 
+(how big is it, who spreads/believes it?)
+
+- Graz Survey here
+Does it come from human's mood or from the stimulus?
+Most people don't believe fake news. Just in our study? 
+No: Extreme minority slide with other study results. 
+
+Not sure where: How big of a problem is this? Untrustworthy news on social media. 
+Who spreads misinfo? Majority/minority
+
+What is it about the stimulus: accuracy or emotion? 
+- Does it come from the misinfo? not much, Matching approach
+- Does it come from emotion/humans? Yes - mirroring
+
+Does it increase engagement? Yes. 
+
+Is engagement driven by algorithms/social media design? 
+Not much. Definitely not the cause, the big part of the problem. 
+
+Open question: who spreads the misinfo, who is angry, and why - Jula's current work
+
+What is the cause of misinfo? 
+- Corruption
+- Polarization
+- Trust...
+
+What do we need to address? 
+- Education: empower individuals
+- Redesign social media/algorithms?
+- Solve problems in society, hard work
+
+Empowering individuals: addressing social identity
+- Apeksha intervention results
+
+Can social media help? 
+ABM Slide. 
+- targeting politicians
+Last part of project on algorithmic interventions - open question, but studies so far tell me that the effect won't be huge. 
+Potential: focus on politicians, influencers, focus on extreme minority
+
+Main conclusion:
+- social media mirrors society, intensifies problems, but is not it's cause
+- misinformation is a symptom of polarization, not it's cause
+- We need to keep working on problems in the real world, with politics, as democracies, as citizens. 
+- For this, we need to know which problems to focus on, and my feeling is that focusing only on social media is the wrong scapegoat, a distraction. 
+- Use social media wisely, transparency, better algorithms, etc. but don't forget about the actual causes
+
+Somewhere: these questions by them:  
+
+3) What has happened to the early promises of digital technology freeing us from
+traditional power structures? Was this expectation realistic or merely an illusion? 
+we were hoping that social media would free us from power structures, who can share knowledge. 
+What happened: loud people scream most, get most attention. Disappointed - now we need better concepts. 
+
+6) Are we seeking better technology, a better society, or both? Is this primarily a power struggle or a technological one?
+This is primarily a power struggle, social media as mirror, not cause. We can shape technology so it helps us fight power imbalance, but it's not easy.
+7) How can we ensure digital technology supports rather than undermines democracy, the rule of law, and our shared societal values? We cannot???
+8. What roles do regulatory frameworks play in creating a just society facilitated by digital humanism? Creating transparency. 
+**Public Perception and Response
+9. Why does digital technology provoke so much fear and concern in public and media discourses? Are these fears a form of "moral panic"?**
+10. What is the responsibility of individual citizens in addressing or even countering the changes digital technology brings to their life?
+Science important in correcting these misperceptions. 
+:::
+
+## Why emotions? 
+
+::::: columns
+::: {.column width="30%"}
+![](images/pexels-alex-green-5699823.jpg)
+:::
+
+::: {.column width="50%"}
+![](images/factchecking.svg)
+:::
+:::::
+
+::: incremental
+- Emotions attract attention & increase sharing
+- Beliefs are shaped by our social identity
+- Group & emotion dynamics are central on social media
+- Social media algorithms mirror these human patterns
+- Existing interventions focus on accuracy 
+:::
+
+::: notes
+Solutions need to consider emotional and social reasons
+:::
+
+::: footer
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057)
+:::
+
+## Research questions
+
+<center>
+
+:::::: columns
+::: {.column width="38%"}
+![](images/EmotionTimelines2020_Italy.svg)
+
+Observational social media analyses of emotional dynamics around news
+:::
+
+::: {.column width="28%"}
+Socio-emotional interventions ![](images/Facebook_Post_Homeopathy_Intervention_Cropped.png)
+:::
+
+::: {.column width="28%"}
+![](images/communication-network.png) Agent-based modelling: network & algorithms
+:::
+::::::
+
+</center>
+
+# Do emotions make people gullible? <br> Which emotions?
+
+## Emotions & COVID-misinformation
+
+- Actual true & false COVID-19 headlines from fact-checking websites & mainstream news sources in Austria in 2021
+- Accuracy ratings (discernment)
+- Emotions increase gulliblity to political news in the US <small> (Martel et al. [2020](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3) )</small>
+
+::::: columns
+::: {.column width="50%"}
+```{r, fig.align='right', out.width='300'}
+knitr::include_graphics('images/N15.PNG')
+```
+
+:::
+::: {.column width="50%"}
+```{r, fig.align='left', out.width='300'}
+knitr::include_graphics('images/NR14.PNG')
+```
+:::
+:::::
+
+
+## Emotional state vs. response
+
+:::::: columns
+::: {.column width="40%"}
+- N=422
+- Emotional state before exposure
+  - null-effects
+- Emotional response
+    -   More anger
+    -   Less joy
+    
+$\rightarrow$ Immediate emotion
+
+:::
+
+:::: {.column width="60%"}
+![](images/emo_diff_plot_color.svg){width="500"}
+::::
+::::::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler (2023), [PsyarXiv](https://psyarxiv.com/udqms/).
+:::
+
+## Do emotions increase susceptibility?
+
+```{r, out.width=1000, fig.align='center'}
+knitr::include_graphics("images/curvi-linear.svg")
+```
+
+::: incremental
+-   Higher anger in people **good & bad** at recognizing false news
+- Most people: good discernment
+:::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler (2023), [PsyarXiv](https://psyarxiv.com/udqms/).
+:::
+
+
+## Why were people angry? 
+
+::: columns
+::: {.column width="50%"}
+```{r, out.width='500'}
+knitr::include_graphics("images/WordShiftGraph.png")
+```
+:::
+
+::: {.column width="50%"}
+-   Angry responses because most people **recognize** false news
+-   Emotions arise when information contradicts existing beliefs
+
+### Emotion $\neq$ Manipulation
+
+</center>
+:::
+:::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler (2023), [PsyarXiv](https://psyarxiv.com/udqms/).
+:::
+
+::: notes
+maybe include misperceptions figure with anger
+:::
+
+# Emotions around news on social media
+
+## How to identify misinformation?
+
+::: columns
+::: column
+### Stories
+
+- fact-checked news stories
+- extreme and clearly false
+- fringe communities
+- small part of the misinformation problem
+:::
+::: column
+### Sources
+
+- all content published by a source, sources differ in trustworthiness/information quality
+- selective, biased or misleading information, including grey area content
+- broader engagement
+:::
+::::
+
+::: notes
+- multiple decisions of researchers
+- It's hard to identify misinfo - focus on false stories
+-  Grey area content, biased content spreads more widely, more dangerous
+-  Broad definition of misinfo: not easy to identity
+:::
+
+
+## Source-based approaches
+
+NewsGuard: Expert ratings of news sources
+
+::::: columns
+::: {.column width="65%"}
+
+```{r, fig.width=9}
+knitr::include_graphics('images/f2b-scores_over_time-violin.svg')
+```
+:::
+
+::: {.column width="35%"}
+::: incremental
+- 9 journalistic quality criteria
+-   Trustworthiness score per source rather than binary true/false
+- In-depth analysis & best-practices
+:::
+
+:::
+:::::
+
+::: footer
+Lühring, Shetty, Lazzaroni, Metzler & Lasser, [2024](https://doi.org/10.31234/osf.io/v6e4b).
+:::
+
+## Observational social media analysis
+
+### Objectives
+
+1.  Collecting a large-scale & long-term data across the trustworthiness spectrum of news for German-speaking context
+
+$\rightarrow$ **Tweets with links to news sources rated by NewsGuard**
+
+2. Approximating causal inference to test the effects of misinformation on emotions
+
+$\rightarrow$  **Matching strategy**
+
+::: footer
+Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
+:::
+
+::: notes
+Causality: Matching, dataset with trustworthy and non-trustworthy articles that are very similar
+:::
+
+## Emotions in news posts on Twitter
+
+- 8 emotions motion in discussions below tweets linking to news sources
+
+![](images/emotions_panel_prop.svg)
+
+- Machine learning model: pol_emo_mDeBERTa <small> (Widmann & Wich, [2022](https://doi.org/10.1017/pan.2022.15)), Macro F1=0.72 </small>
+
+::: footer
+Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
+:::
+
+::: notes
+-   For each tweet, we then classified 8 distinct emotions and out-group references from text
+-   This plot shows the covered time frame from October 2020 to March 2022 and we can already see that anger is overall much higher
+
+:::
+
+## Emotions are linked to  trustworthiness
+
+![](images/daily_emotions_rating_smoothed.png)
+
+::: footer
+Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
+:::
+
+
+## Causal inference: Matching
+
+::: columns
+::: {.column width="50%"}
+![](images/randomization.png){width="300"}
+:::
+
+::: {.column width="50%"}
+![](images/matching.png){width="300"}
+:::
+::: 
+
+- Tweets assigned to 2 conditions based on similarity on covariates:
+  - Political orientation, followers, following, time from post to response, emotions in post with the news
+- Comparing conditions: effect of misinformation on emotions
+
+::: notes
+NewsGuard sets a threshold at a trustworthiness score at 60, such that sources below 60 are considered untrustworthy
+
+We used this classification to create two conditions (trustworthy vs untrustworthy) - - then applied a nonparametric matching approach to balance the dataset based on a set of covariates
+
+:::
+
+## Trustworthiness affects engagement & emotions
+
+![](images/coeffs_panel.svg)
+
+::: footer
+Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
+:::
+
+
+
+
+## How does misinformation elicit emotions? {.smaller}
+
+Regressions to predict emotion in discussion from all emotions in news post
+
+![](images/covariates_coeffs_emo_predicts_emo.svg)
+
+### $\rightarrow$ Emotions in discussion mirror emotions in news post
+
+## Conclusions from social media data
+
+-   More anger in the context of misinformation
+
+-   Emotions in discussions largely reflect emotions in initial post $\rightarrow$ not trustworthiness!
+
+- Misinformation likely includes more anger & conflict, leading to more engagement
+
+
+# Can we change misperceptions? <br> $\rightarrow$ Interventions
+
+::: notes
+skipped the interventions part (4 slides) to manage 45-50 minutes
+:::
+
+## Changing beliefs is hard
+
+::: incremental
+- Beliefs are linked to social identity
+- Beliefs are consistent with world-view
+- Trust in the source of new information is crucial
+- Process of belief change: 
+  - Motivation to reflect: **first doubts**
+  - Actually consuming new information 
+  - Repeat often, over many sources & for associated beliefs
+
+::: 
+
+::: fragment
+$\rightarrow$ Focus on change of feelings in first step
+:::
+
+## Social identity intervention
+
+:::::: columns
+::: {.column width="45%"}
+![](images/Facebook_Post_Homeopathy_Intervention_Cropped.png)
+:::
+
+:::: {.column width="55%"}
+::: incremental
+-   Goal: Increasing skepticism
+-   How: [Beliefs]{style="color:green;"} incongruent with [social identity]{style="color:red;"}
+-   [Complementary & Alternative Medicine (CAM)]{style="color:green;"} vs. [right-wing extremism]{style="color:red;"}
+-   Intervention shows link with
+    -   historical information
+    -   news articles
+    
+:::
+::::
+::::::
+
+::: footer
+Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
+:::
+
+## Methods
+
+::: incremental
+- Pilotstudy
+- [Pre-registered](https://osf.io/enjdz) study with Austrian/German 817 participants
+- Experimental & Control group
+- Pre & post intervention: 
+  - Feelings about alternative & conventional medicine
+  
+:::
+  
+::: footer
+Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
+:::
+
+::: notes
+control: history & diversity of a plant, origin of cabbage/broccoli/cauliflower
+receipes
+:::
+
+## Intervention effect: Exp. vs. Control
+
+![](images/social_identity_treatment_effects_fig4.svg){fig-align="center" width="200"}
+
+<center>Highlighting inconsistency of beliefs with social identity reduces positive feelings toward alternative medicine.</center>
+
+::: footer
+Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
+:::
+
+# Conclusion
+
+## A new theoretical perspective on misinformation
+
+::: incremental
+- Emotions are **functional** - they don't make people stupid
+- Emotions in misinformation attract attention & increase engagement
+- Humans are not gullible: **motivated belief** vs. manipulation
+- Motivated partisan **minority** shares misinformation
+- Majority: **uninformed**, little news interest & silent
+- Misinformation as **symptom** of real-world societal problems and polarization
+
+:::
+
+::: footer
+Mercier [2020](https://www.jstor.org/stable/j.ctvn1tbqq); 
+Budak et al. [2024](https://www.nature.com/articles/s41586-024-07417-w);
+Alper [2022](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2919); Altay et al. [2022](https://journalqd.org/article/view/3617); 
+Baribi-Bartov et al. [2024](https://www.science.org/doi/10.1126/science.adl4435); 
+Altay et al. [2024](https://journals.sagepub.com/doi/10.1177/14614448241247822)
+:::
+
+::: notes
+-   reduced trust in politics, science, institutions
+-   loss of privilege/status
+:::
+
+
+
+## For the curious... {.smaller}
+
+:::: columns
+::: {.column width="55%"}
+- [The New Yorker: Don't believe what they're telling you about misinformation](https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation)
+- [Kurzgesagt Video](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
+<br>
+![](images/in_a_nutshell.png){width="260"}
+- [Spektrum der Wissenschaften: Mythos Fehlinformation - Warum Social Media weniger gefährlich sind als wir denken](https://hannahmetzler.eu/2024-09-13-Mythos_Fehlinformation/)
+:::
+
+::: {.column width="45%"}
+
+- [ORF Dok 1](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden)
+<br>
+![](images/dok1_orf.png){width="400"}
+- [DerStandard Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) 
+![](images/derstandard_podcast.png){width="400"}
+::::
+
+:::
+
+
+## Book recommendations
+
+::: columns
+
+::: {.column width="50%"}
+```{r, echo=FALSE, out.width=250}
+knitr::include_graphics("images/mercier_book.jpeg")
+```
+
+[Mercier, 2020](https://www.jstor.org/stable/j.ctvn1tbqq): 
+Cognitive Science of misinformation & propaganda
+:::
+
+::: {.column width="50%"}
+```{r, echo=FALSE, out.width=250}
+knitr::include_graphics("images/bail_book.avif")
+```
+
+[Bail, 2021](https://www.chrisbail.net/nm): 
+
+Polarization & social media
+:::
+:::
+
+
+
+## Thank you & time for questions
+
+Project website: [https://hannahmetzler.eu/emomis](hannahmetzler.eu/emomis)
+
+<br>
+
+![](images/team_without_me.svg)
+
+
+
+::: columns
+::: {.column width="27%"}
+![](logos/Complexity-Science-Hub_schwarz_RGB.png)
+:::
+::: {.column width="35%"}
+![](logos/uni_wien_logo_blue.jpg)
+:::
+::: {.column width="35%"}
+![](logos/wwtf.svg)
+:::
+:::
+
+
+## Algorithm effects on news trustworthiness {visibility="hidden"}
+
+Agent-based model of US politicians' retweeting behavior
+
+. . .
+
+![](images/ABM_algorithm_interventions.png)
+
+::: footer
+Shetty\*, Simmerdinger\*, Lühring, Garcia, Walherr & Metzler (in prep.)
+:::
+
+::: notes
+-   most of the news are trustworthy
+-   Most effective: down-ranking low trustworthy posts
+-   Downranking anger: increases trustworthy posts
+-   Combining interventions is best
+:::
+
