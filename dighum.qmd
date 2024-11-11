@@ -23,13 +23,6 @@ title-slide-attributes:
 editor: source
 ---
 
-## Overview
-
--   Emotions do not generally increase irrationality, but have a function (even for misinformation belief)
--  Beliefs and misinformation sharing are socially motivated, not the result of gullibility
-- Misinformation is a symptom of political polarization, rather than the disease itself
-- Social media and its algorithms reflect political polarization, but are likely not its primary causes
-
 ::: notes
 time notes and planning
 
@@ -74,7 +67,7 @@ Teaching: 2.2 minutes per normal slide. Rule of thumb: Including quick slides, a
 ::: notes
 potentially use myths on misinfo, social media, emotions etc. as structure?
 
-Story line: 
+Story line EMOMIS 
 - Intro: like digital days
 - There is emotion around news and misinfo - Jula study: true. Mostly anger. 
 
@@ -122,20 +115,21 @@ ABM Slide.
 Last part of project on algorithmic interventions - open question, but studies so far tell me that the effect won't be huge. 
 Potential: focus on politicians, influencers, focus on extreme minority
 
-Main conclusion:
-- social media mirrors society, intensifies problems, but is not it's cause
-- misinformation is a symptom of polarization, not it's cause
+Main conclusions:
+- Emotions do not generally increase irrationality, but have a function (even for misinformation belief)
+- Beliefs and misinformation sharing are socially motivated, not the result of gullibility
+- Misinformation is a symptom of political polarization, rather than the disease itself
+- Social media and its algorithms reflect political polarization, but are likely not its primary causes
 - We need to keep working on problems in the real world, with politics, as democracies, as citizens. 
-- For this, we need to know which problems to focus on, and my feeling is that focusing only on social media is the wrong scapegoat, a distraction. 
+- For this, we need to know which problems to focus on, focusing only on social media is the wrong scapegoat, a distraction. 
 - Use social media wisely, transparency, better algorithms, etc. but don't forget about the actual causes
 
-Somewhere: these questions by them:  
+Somewhere: some of these questions by them:  
 
 3) What has happened to the early promises of digital technology freeing us from
 traditional power structures? Was this expectation realistic or merely an illusion? 
 we were hoping that social media would free us from power structures, who can share knowledge. 
 What happened: loud people scream most, get most attention. Disappointed - now we need better concepts. 
-
 6) Are we seeking better technology, a better society, or both? Is this primarily a power struggle or a technological one?
 This is primarily a power struggle, social media as mirror, not cause. We can shape technology so it helps us fight power imbalance, but it's not easy.
 7) How can we ensure digital technology supports rather than undermines democracy, the rule of law, and our shared societal values? We cannot???
