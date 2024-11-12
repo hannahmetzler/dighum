@@ -39,6 +39,12 @@ images for risks? spiral, trump etc.
 
 time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
 Digital days: 16 slides total, 30 min
+
+Slide count: 33 = 28
+section titles: -2 (maybe slide 17?)
+recommendations: - 2
+Thank you: 1
+
 :::
 
 ## Challenges in Computional Social Science
@@ -68,7 +74,7 @@ Digital days: 16 slides total, 30 min
 - Willingness to change our mind
 :::
 
-# Social dynamic around <br> misinformation on social media
+# Social dynamic around <br> misinformation on Twitter
 
 ## Why the social dynamic is key
 
@@ -418,10 +424,16 @@ de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
 ### Our approach
 
 1) Psychological interventions as prevention: less polarized beliefs & groups
-2)  Interventions targeting misinformation by politicians
+2) Algorithmic interventions targeting misinformation by politicians 
+
 
 ::: footer
 Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
+:::
+
+::: notes
+Results for number 1
+Ongoing research for number 2
 :::
 
 ## Social identity intervention
@@ -526,7 +538,7 @@ Törnberg et al., [2023](http://arxiv.org/abs/2310.05984); Wojcik et al., [2022]
 - Misinformation is a **symptom** of real-world societal problems that lead to polarization
 - **Social media** reflects and distorts this polarization, but is likely not the main cause
 - Social media could help
-- Focus on solving root causes of polarization in the real-world
+- Focus: solving root causes of polarization in the real-world
 
 :::
 
