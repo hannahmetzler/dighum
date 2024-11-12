@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="621.18756pt"
+   height="281.37pt"
+   viewBox="0 0 621.18756 281.37"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="social_identity_treatment_effects_fig_3.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.1072917"
+     inkscape:cx="392.39887"
+     inkscape:cy="153.0762"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="1"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g38" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="fill:none;stroke:none"
+     id="rect1"
+     x="-65.737419"
+     y="-64.980003" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="360"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)"
+     id="g2"
+     transform="translate(-65.737416,-64.980003)" />
+  <defs
+     id="defs3">
+    <clipPath
+       id="cpMjk0LjQzfDcwNS4wNnw2NC45OHwzMDAuNTc=">
+      <rect
+         x="294.42999"
+         y="64.980003"
+         width="410.62"
+         height="235.58"
+         id="rect3" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMjk0LjQzfDcwNS4wNnw2NC45OHwzMDAuNTc=)"
+     id="g17"
+     transform="translate(-65.737416,-64.980003)">
+    <polyline
+       points="306.99,300.57 306.99,64.98 "
+       style="stroke:#ebebeb;stroke-width:1.94;stroke-linecap:butt"
+       id="polyline3" />
+    <polyline
+       points="388.19,300.57 388.19,64.98 "
+       style="stroke:#ebebeb;stroke-width:1.94;stroke-linecap:butt"
+       id="polyline4" />
+    <polyline
+       points="469.38,300.57 469.38,64.98 "
+       style="stroke:#ebebeb;stroke-width:1.94;stroke-linecap:butt"
+       id="polyline5" />
+    <polyline
+       points="550.57,300.57 550.57,64.98 "
+       style="stroke:#ebebeb;stroke-width:1.94;stroke-linecap:butt"
+       id="polyline6" />
+    <polyline
+       points="631.77,300.57 631.77,64.98 "
+       style="stroke:#ebebeb;stroke-width:1.94;stroke-linecap:butt"
+       id="polyline7" />
+    <circle
+       cx="511.73999"
+       cy="256.39001"
+       r="3.5599999"
+       style="fill:#3b9ab2;stroke:#3b9ab2;stroke-width:0.71"
+       id="circle7" />
+    <circle
+       cx="614.77002"
+       cy="182.77"
+       r="3.5599999"
+       style="fill:#8e3bb2;stroke:#8e3bb2;stroke-width:0.71"
+       id="circle8" />
+    <circle
+       cx="391.70001"
+       cy="109.15"
+       r="3.5599999"
+       style="fill:#b2533b;stroke:#b2533b;stroke-width:0.71"
+       id="circle9" />
+    <polyline
+       points="588.86,263.76 588.86,249.03 "
+       style="stroke:#3b9ab2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline9" />
+    <polyline
+       points="588.86,256.39 434.63,256.39 "
+       style="stroke:#3b9ab2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline10" />
+    <polyline
+       points="434.63,263.76 434.63,249.03 "
+       style="stroke:#3b9ab2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline11" />
+    <polyline
+       points="686.39,190.14 686.39,175.41 "
+       style="stroke:#8e3bb2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline12" />
+    <polyline
+       points="686.39,182.77 543.14,182.77 "
+       style="stroke:#8e3bb2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline13" />
+    <polyline
+       points="543.14,190.14 543.14,175.41 "
+       style="stroke:#8e3bb2;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline14" />
+    <polyline
+       points="470.31,116.52 470.31,101.79 "
+       style="stroke:#b2533b;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline15" />
+    <polyline
+       points="470.31,109.15 313.10,109.15 "
+       style="stroke:#b2533b;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline16" />
+    <polyline
+       points="313.10,116.52 313.10,101.79 "
+       style="stroke:#b2533b;stroke-width:1.07;stroke-linecap:butt"
+       id="polyline17" />
+    <line
+       x1="550.57001"
+       y1="300.57001"
+       x2="550.57001"
+       y2="64.980003"
+       style="stroke-width:1.07;stroke-linecap:butt;stroke-dasharray:5.69, 5.69"
+       id="line17" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)"
+     id="g38"
+     transform="translate(-65.737416,-64.980003)">
+    <text
+       x="162.24001"
+       y="262.82001"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="189.62"
+       lengthAdjust="spacingAndGlyphs"
+       id="text17"
+       transform="translate(23.470972)">Trust in Vaccine Safety</text>
+    <text
+       x="162.24001"
+       y="179.48"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="246.46001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text18"
+       transform="matrix(0.60235125,0,0,0.94919192,81.08875,5.5248269)">Attitudes towards</text>
+    <text
+       x="162.24001"
+       y="198.92"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="193.16"
+       lengthAdjust="spacingAndGlyphs"
+       id="text19"
+       transform="translate(25.176447,4.7256714)">Conventional Medicine</text>
+    <text
+       x="162.24001"
+       y="105.86"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="246.46001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20"
+       transform="matrix(0.79486703,0,0,1,61.197321,24.28609)">Alternativative Medicine</text>
+    <text
+       x="162.24001"
+       y="125.3"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="39.209999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text21" />
+    <text
+       x="306.98999"
+       y="320.95999"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="27.75"
+       lengthAdjust="spacingAndGlyphs"
+       id="text22">-0.3</text>
+    <text
+       x="388.19"
+       y="320.95999"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="27.75"
+       lengthAdjust="spacingAndGlyphs"
+       id="text23">-0.2</text>
+    <text
+       x="469.38"
+       y="320.95999"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="27.75"
+       lengthAdjust="spacingAndGlyphs"
+       id="text24">-0.1</text>
+    <text
+       x="550.57001"
+       y="320.95999"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="22.59"
+       lengthAdjust="spacingAndGlyphs"
+       id="text25">0.0</text>
+    <text
+       x="631.77002"
+       y="320.95999"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans';fill:#4d4d4d"
+       textLength="22.59"
+       lengthAdjust="spacingAndGlyphs"
+       id="text26">0.1</text>
+    <text
+       x="499.75"
+       y="346.19"
+       text-anchor="middle"
+       style="font-size:16px;font-family:'Noto Sans'"
+       textLength="185.81"
+       lengthAdjust="spacingAndGlyphs"
+       id="text27">Beta coefficient estimate</text>
+    <text
+       x="296.48999"
+       y="29.940001"
+       style="font-weight:bold;font-size:21px;font-family:'Noto Sans'"
+       textLength="123.73"
+       lengthAdjust="spacingAndGlyphs"
+       id="text32" />
+    <text
+       x="162.24001"
+       y="179.48"
+       text-anchor="middle"
+       style="font-size:18px;font-family:'Noto Sans';white-space:pre;fill:#4d4d4d"
+       textLength="246.46001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text18-6"
+       transform="matrix(0.60235125,0,0,0.94919192,91.88504,-62.402375)">Attitudes towards</text>
+  </g>
+</svg>
