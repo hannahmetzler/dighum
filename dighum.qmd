@@ -58,12 +58,15 @@ Thank you: 1
 
 ## Challenges for Digital Humanism in Computional Social Science
 
+::: incremental
 - Complex social issues with many influencing factors
   - Intuition vs. evidence
   - What are the root causes?
   - Which solutions address these?
 - Social media companies: 
    - Transparency & cooperation
+
+:::
 
 ![](images/DALLE_minimalist_social_media_misinfo_emotions.webp){.absolute bottom=80 right="20" width="330"}
 
@@ -78,6 +81,7 @@ Image by DALL-E
 
 ## Crucial methods and skills
 
+::: incremental
 - Asking good questions: solid evidence and theory building
 - Awareness of cognitive & social biases
   - Transparency & Open Science
@@ -85,7 +89,8 @@ Image by DALL-E
 - Big data analysis (text, video...), machine learning, LLMs etc.
 - Complexity science approaches: 
   - E.g. Network analysis, Agent-Based Modeling
-
+  
+:::
 
 
 ::: notes
@@ -109,11 +114,12 @@ Image by DALL-E
 :::::
 
 ::: incremental
+- Most interventions focus on information & accuracy
 - Beliefs are shaped by our social identity
 - Emotions attract attention & increase sharing
 - Group & emotion dynamics are central on social media
 - Social media algorithms mirror these human patterns
-- Most interventions focus on information & accuracy
+
 :::
 
 ::: footer
@@ -125,7 +131,7 @@ why not just teach humans the facts?
 Add ref van bavel etc. 
 :::
 
-## Our project
+## Our project on misinformation
 
 <center>
 
@@ -147,18 +153,22 @@ Experiments: Psychological interventions ![](images/Facebook_Post_Homeopathy_Int
 
 </center>
 
+::: footer
+[https://hannahmetzler.eu/emomis](https://hannahmetzler.eu/emomis)
+:::
+
 ::: notes
 Today, I will show you results from 3 different parts of our project
 :::
 
-## Emotions around news posts on social media
+## Emotions around news posts on Twitter/X
 
 ::: columns
 ::: {.column width='65%'}
 ![](images/emotions_by_news_type.svg){width='680'}
 :::
 ::: {.column width='35%'}
-- Twitter news posts & threads 2020-2022
+- Posts with news URLs & threads 2020-2022
 - Emotions: Machine learning
 - Trustworthiness: NewsGuard
 
@@ -171,7 +181,20 @@ Today, I will show you results from 3 different parts of our project
 Lühring, Metzler, Lazzaroni, Shetty & Lasser, [2024](https://doi.org/10.31234/osf.io/v6e4b); Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
 :::
 
+::: notes
+- If we look in the "real world", where misinfo occurs on social media
+- there indeed observe emotions around news, in particular anger
+
+:::
+
 # What is the origin of emotions around (untrustworthy) news?
+
+::: notes
+One main question I want to look at with you today is...
+-  in the person (mood)?
+- From the news?
+- What about the news: wrong, or emotional/sensationalist?
+:::
 
 ## Emotions: Mood vs. response to news
 
@@ -207,7 +230,12 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler (2023), [PsyarXiv]
 2) Effects of **emotions** in the news
     - compared to emotionally neutral news
 
-$\rightarrow$ Social media data analysis
+::: fragment
+$\rightarrow$ Social media data analysis by Jula Lühring <br> 
+
+![](images/Jula-Luhring-500x500-c-VA.jpg){width='180'}
+
+:::
 
 ::: footer
 Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
@@ -280,7 +308,7 @@ $\rightarrow$ Emotions in discussion mirror emotions in news post
 
 ::: incremental
 - Strongest predictor of **anger** in the discussion: 
-    - **Anger** in the news post
+    - **Anger** in the news post (influence of external events)
 - Same pattern for all other emotions
 
 :::
@@ -321,7 +349,10 @@ $\rightarrow$ Results from COVID-19 news headlines experiment
 - Angry responses because most people **recognize** false news
 - Anger arose when information contradicts existing beliefs
 
+::: fragment
 ### $\rightarrow$ Emotion $\neq$ Manipulation
+
+:::
 
 ::: footer
 Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler (2023), [PsyarXiv](https://psyarxiv.com/udqms/).
@@ -332,12 +363,18 @@ in other words: emotions don't make people gullible
 
 :::
 
-## Who believes and shares most misinformation?
+# Who believes and shares most misinformation?
+
+::: notes
+This brings me to another crucial question: ...
 
 - In our study: Educated, left-leaning sample
-- In other studies? On social media?
+- majority did not believe COVID-19 false news
+- But other studies? Social media?
 
-## Motivated minority: extreme opinions
+:::
+
+## Motivated minority with extreme opinions
 
 - Minority of  [0.1%](https://doi.org/10.1126/science.aau2706), 
 [1%](https://www.doi.org/10.1017/S0003055421000290), [2%](https://doi.org/10.1080/10584609.2024.2325426), 
@@ -371,9 +408,10 @@ Bail et al. [2019](https://www.pnas.org/doi/full/10.1073/pnas.1906420116)
 
 ## Misinformation as symptom of polarization
 
-- Not feeling represented
-- Frustration with real-world societal problems 
-- Trust in institutions: [Corruption](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2919) => more conspiracies
+- Trust in institutions:
+  - [Corruption](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2919) => more conspiracies
+  - Not feeling represented
+  - Frustration with real-world societal problems 
 - Polarization of elites plays an important role ([2](https://www.pnas.org/content/115/37/9216), [3]([https://www.nature.com/articles/s41467-022-34769-6]), [4](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
 
 :::: columns
@@ -405,28 +443,26 @@ Altay et al. [2022](https://journalqd.org/article/view/3617)
 ## So how much misinformation is there?
 
 ::: columns
-::: {.column width="60%"}
-- News from untrustworthy outlets
+::: {.column width="66%"}
+- Definition: News from untrustworthy outlets
 - Small part of news diet on social media
-- [1-6%](https://journalqd.org/article/view/3617) in 5 studies from 2016-2019
-
-<br>
-
-### COVID-19 pandemic 2020-2022 $\rightarrow$
-
- <small>Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.) </small>
-
+  - [1-6%](https://journalqd.org/article/view/3617) in 5 studies from 2016-2019
+  - COVID-19 pandemic 2020-2022 **$\rightarrow$** <br> 
+   <small>Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.) </small>
+  - US politicians <br>
+  <small>Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler <br> (in prep.) </small>
 
 <!-- ::: fragment -->
 <!-- - People read more news during COVID-19 -->
 <!-- ![](images/altay_2022_prevalence.svg){width='600'} -->
 <!-- ::: -->
 :::
-::: {.column width="40%"}
+::: {.column width="34%"}
 
-<br><br>
+<br>
 
 ![](images/amount_misinfo.svg){width='500'}
+
 :::
 :::
 
@@ -439,16 +475,20 @@ de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
 
 ## What can we do?
 
+- People not gullible & beliefs socially motivated
 - Motivated minorities: hard to reach & convince
 
 ### Our approach
 
 1) Psychological interventions as prevention: less polarized beliefs & groups
-2) Algorithmic interventions targeting misinformation by politicians 
+2) Algorithmic interventions: misinformation by politicians 
 
+```{r, fig.align='center'}
+knitr::include_graphics('images/ApekshaShetty.png')
+```
 
 ::: footer
-Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
+Shetty, Lühring, Garcia, Waldherr & Metzler (in prep.)
 :::
 
 ::: notes
@@ -456,7 +496,7 @@ Results for number 1
 Ongoing research for number 2
 :::
 
-## Social identity intervention
+## Changing attitudes via social identity
 
 :::::: columns
 ::: {.column width="45%"}
@@ -465,12 +505,12 @@ Ongoing research for number 2
 
 :::: {.column width="55%"}
 ::: incremental
--   Goal: Increasing skepticism
--   How: [Beliefs]{style="color:green;"} incongruent with [social identity]{style="color:red;"}
+-   Intervention that associates a (misinformed) [ belief]{style="color:green;"} with an incongruent [social identity]{style="color:red;"}
 -   [Complementary & Alternative Medicine (CAM)]{style="color:green;"} vs. [right-wing extremism]{style="color:red;"}
--   Intervention shows link with
+-  How: Intervention provides
     -   historical information
     -   news articles
+
     
 :::
 ::::
@@ -484,10 +524,10 @@ Shetty, Lühring, Garcia, Waldherr & Metzler (in preparation)
 ## Intervention effect: Exp. vs. Control group
 
 * [Pre-registered](https://osf.io/enjdz) study with pre-post design (n=817)
-* Highlighting inconsistency of beliefs with social identity influences attitudes
 
 ![](images/social_identity_treatment_effects_fig_3.svg){fig-align="center"}
 
+* Highlighting inconsistency of beliefs with social identity influences attitudes
 
 ::: footer
 Shetty, Lühring, Garcia, Waldherr & Metzler (in prep.)
@@ -509,7 +549,7 @@ receipes
 <!-- ![](images/ABM_data_match.png) -->
 
 ::: footer
-Shetty\*, Simmerdinger\*, Lühring, Garcia, Walherr & Metzler (in prep.)
+Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
 :::
 
 ## Can social media help?
