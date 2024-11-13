@@ -49,8 +49,8 @@ Pixabay image by <a href="https://pixabay.com/de/users/lu94007-10696335/?utm_sou
 time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
 Digital days: 16 slides total, 30 min
 
-Slide count: 33 = 28
-section titles: -2 (maybe slide 17?)
+Slide count: 30 = 24
+section titles: -3
 recommendations: - 2
 Thank you: 1
 
@@ -449,8 +449,8 @@ Altay et al. [2022](https://journalqd.org/article/view/3617)
   - [1-6%](https://journalqd.org/article/view/3617) in 5 studies from 2016-2019
   - COVID-19 pandemic 2020-2022 **$\rightarrow$** <br> 
    <small>Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.) </small>
-  - US politicians <br>
-  <small>Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler <br> (in prep.) </small>
+  - Posted by US politicians 2010-2023:  <br> 3.92/1.25% (Rep/Dem) <br>
+  <small>Shetty, Simmerdinger, Lühring, Garcia, Walherr <br> & Metzler (in prep.) </small>
 
 <!-- ::: fragment -->
 <!-- - People read more news during COVID-19 -->
@@ -540,11 +540,29 @@ receipes
 
 ## Algorithmic interventions
 
-- Algorithmic interventions targetted at extreme minority or elites?
-- Agent-based model of US politicians' retweeting behavior
-  - modelling social (political) and emotional dynamics
-- Our model matches real-world data
-- Currently testing effects of algorithmic interventions to reduce politicians' sharing of untrustworthy information
+- Targeting political elites: 
+  - Even small effects can have large effects on exposure.
+
+- Agent-Based Model = Computer simulation
+- Model of US politicians' retweeting behavior
+    - news trustworthiness
+    - emotions
+    - social groups (parties)
+    
+![](images/politicians_audience.png){.absolute bottom='50' right='50' width="350"}
+
+::: footer
+Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
+:::
+    
+## Our model matches retweeting behavior
+
+```{r, fig.align='center', out.height='400'}
+knitr::include_graphics("images/retweet_histogram.svg")
+```
+
+<center> Can algorithmic interventions [reduce]{style="color:red;"}/[boost]{style="color:green;"} the sharing of [untrustworthy]{style="color:red;"}/[trustworthy]{style="color:green;"} news 
+by politicians and partisans? </center>
 
 <!-- ![](images/ABM_data_match.png) -->
 
@@ -552,30 +570,18 @@ receipes
 Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
 :::
 
-## Can social media help?
+## Digital humanism, social media & misinformation?
 
-- Using interventions & (potentially) algorithms on social media to counter human tendencies 
-- Requires platform transparency & collaboration
-
-::: fragment
-::: columns
-::: column
-
-### Algorithmic interventions
-
-- Making moderate opinions more visible: Agreement between groups ([1](http://arxiv.org/abs/2210.15723), [2](http://arxiv.org/abs/2310.05984))
-- Boost trustworthy sources
-:::
-::: column
-### Platform design
-
+::: incremental
+- Small effects in the right direction
+- Psychological interventions: prevention
+- Algorithmic interventions 
+  - Boost trustworthy sources
+  - Making moderate opinions more visible: <br> Agreement between groups ([1](http://arxiv.org/abs/2210.15723), [2](http://arxiv.org/abs/2310.05984))
 - [Design](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism) for entertainment vs. nuanced political discussion
-  - Separate feeds, anonymity etc.
-
 
 :::
-:::
-:::
+
 
 ::: footer
 Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057);
@@ -588,7 +594,6 @@ Törnberg et al., [2023](http://arxiv.org/abs/2310.05984); Wojcik et al., [2022]
 -  Colour buttons to show extremity of others, to change distortion
 :::
 
-
 ## Conclusions
 
 ::: incremental
@@ -597,8 +602,7 @@ Törnberg et al., [2023](http://arxiv.org/abs/2310.05984); Wojcik et al., [2022]
 - **Misinformation sharing** is socially motivated, not the result of gullibility
 - Misinformation is a **symptom** of real-world societal problems that lead to polarization
 - **Social media** reflects and distorts this polarization, but is likely not the main cause
-- Social media could help
-- Focus: solving root causes of polarization in the real-world
+- Solving **root causes** of polarization in the real-world
 
 :::
 
@@ -719,3 +723,22 @@ First thoughts after seeing COVID-19 news headlines
 ```{r, out.width='500'}
 knitr::include_graphics("images/WordShiftGraph.png")
 ```
+
+## ABM Set-up
+
+![](images/ABM_setup.png)
+
+::: notes
+- from all politicians in our final dataset, random politicians are selected in each timestep, who post original tweets
+- the tweets‘ characteristics correspond to actual tweets in our dataset
+- the tweet spreads to the politician network of the posting politician
+- the platform ranking algorithm then determines its ranking (we only model this when modelling interventions). In the base model, it is a reverse-chronological ranking only
+- if the post makes it to the top n posts on the follower timeline, the following politician makes a retweeting decision. This is implemented through the logistic regression model
+- if the post gets retweeted, it spreads to the retweeting politician‘s politician network and so on
+- record the total number of politician retweets over the simulation run
+
+Extended version
+- retweets are increased by a factor to approximate total retweets (i.e., from general public), by increasing the retweet count of 1 by the politician‘s follower number
+- introducing randomness through drawing from a binomial distribution
+- this follower number is first reduced by overlaps with followers of previous tweeting and retweeting politicians of the same post
+:::
