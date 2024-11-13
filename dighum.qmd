@@ -303,12 +303,10 @@ Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
 
 $\rightarrow$ Emotions in discussion mirror emotions in news post
 
-::: incremental
 - Strongest predictor of **anger** in the discussion: 
     - **Anger** in the news post (influence of external events)
 - Same pattern for all other emotions
 
-:::
 
 ::: footer
 Lühring, Garcia,  Waldherr, Shetty, & Metzler (in prep.)
