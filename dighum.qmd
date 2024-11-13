@@ -95,8 +95,8 @@ Image by DALL-E
 - Because we have own intuitions, and problems are complex: biases. 
 - Willingness to question assumptions
 - For all this, Open Science really helps: making hypotheses, analyses plans, code, data openly available. 
-- Talk about the “methods” that ought to be part of an educational program in
-“Digital Humanism”
+- Methods
+- Now, as an example of research from this area, let me come to your project on misinformation. 
 :::
 
 # Social dynamic around <br> misinformation on Twitter
@@ -549,7 +549,7 @@ receipes
     - emotions
     - social groups (parties)
     
-![](images/politicians_audience.png){.absolute bottom='50' right='50' width="350"}
+![](images/politicians_audience.png){.absolute bottom='80' right='50' width="350"}
 
 ::: footer
 Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
