@@ -564,8 +564,6 @@ knitr::include_graphics("images/retweet_histogram.svg")
 <center> Can algorithmic interventions [reduce]{style="color:red;"}/[boost]{style="color:green;"} the sharing of [untrustworthy]{style="color:red;"}/[trustworthy]{style="color:green;"} news 
 by politicians and partisans? </center>
 
-<!-- ![](images/ABM_data_match.png) -->
-
 ::: footer
 Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
 :::
@@ -579,7 +577,6 @@ Shetty, Simmerdinger, Lühring, Garcia, Walherr & Metzler (in prep.)
   - Boost trustworthy sources
   - Making moderate opinions more visible: <br> Agreement between groups ([1](http://arxiv.org/abs/2210.15723), [2](http://arxiv.org/abs/2310.05984))
 - [Design](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism) for entertainment vs. nuanced political discussion
-
 :::
 
 
