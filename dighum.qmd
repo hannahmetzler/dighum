@@ -58,7 +58,6 @@ Thank you: 1
 
 ## Challenges for Digital Humanism in Computional Social Science
 
-::: incremental
 - Complex social issues with many influencing factors
   - Intuition vs. evidence
   - What are the root causes?
@@ -66,7 +65,6 @@ Thank you: 1
 - Social media companies: 
    - Transparency & cooperation
 
-:::
 
 ![](images/DALLE_minimalist_social_media_misinfo_emotions.webp){.absolute bottom=80 right="20" width="330"}
 
@@ -81,20 +79,22 @@ Image by DALL-E
 
 ## Crucial methods and skills
 
-::: incremental
-- Asking good questions: solid evidence and theory building
-- Awareness of cognitive & social biases
-  - Transparency & Open Science
+- Strong theoretical background: 
+  - What does solid/total evidence show?
 - Strong statistics skills: Real-world data & reproducibility
+- Awareness of cognitive & social biases
+- Transparency & Open Science
 - Big data analysis (text, video...), machine learning, LLMs etc.
 - Complexity science approaches: 
   - E.g. Network analysis, Agent-Based Modeling
-  
-:::
 
 
 ::: notes
-- Willingness to change our mind, questioning assumptions
+- Complex social issues: which evidence is solid, all evidence together?
+- Requires statistics skills, messy data, and many non-reproducible studies
+- Because we have own intuitions, and problems are complex: biases. 
+- Willingness to question assumptions
+- For all this, Open Science really helps: making hypotheses, analyses plans, code, data openly available. 
 - Talk about the “methods” that ought to be part of an educational program in
 “Digital Humanism”
 :::
