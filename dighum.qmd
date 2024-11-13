@@ -611,10 +611,6 @@ Baribi-Bartov et al. [2024](https://www.science.org/doi/10.1126/science.adl4435)
 Altay et al. [2024](https://journals.sagepub.com/doi/10.1177/14614448241247822)
 :::
 
-::: notes
-- Leaving Facebook for 6 weeks: small effect on emotional polarization [Account deactivation](https://www.pnas.org/doi/10.1073/pnas.2321584121) - maybe include that slide?
-:::
-
 ## For the curious... {.smaller}
 
 :::: columns
