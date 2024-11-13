@@ -25,14 +25,20 @@ editor: source
 
 ## Digital Humanism & social media
 
-- Shaping technologies in line with human values and needs
-- Psychology: Designing and using social media in ways that foster **individual** and **societal** well-being
-- Individual and systemic risks: 
+Shaping digital technology in line with human values & needs <br><br>
+
+### Psychology & computational social science: 
+
+- Designing and using social media in ways that foster **individual** and **societal** well-being. 
+
   - mental health
   - extremism & polarization
   - echo chambers & misinformation
   
 ::: notes
+- Core of DigHum for me: shaping
+- In my research area of psych/CSS on the topic of social media, this means...
+
 images for risks? spiral, trump etc. 
 - Define what “Digital Humanism” means to me
 - Talk about the roots of “Digital Humanism” within their disciplinary traditions
@@ -47,12 +53,13 @@ Thank you: 1
 
 :::
 
-## Challenges in Computional Social Science
+## Challenges for Digital Humanism in Computional Social Science
 
 - Complex social issues
   - Intuition vs. evidence
   - What are the root causes?
   - Which solutions address these?
+- Social media companies: Transparency & cooperation
   
 ::: notes
 - Talk about the challenges of “Digital Humanism” from their point of view
@@ -63,15 +70,15 @@ Thank you: 1
 ## Crucial methods and skills
 
 - Asking good questions: solid evidence and theory building
-- Strong statistics skills: Real-world data & reproducibility
 - Awareness of cognitive & social biases
   - Transparency & Open Science
-- Big data (text, video, etc), machine learning, LLMs etc.
-- Complexity science methods: 
+- Strong statistics skills: Real-world data & reproducibility
+- Big data analysis (text, video...), machine learning, LLMs etc.
+- Complexity science approaches: 
   - Network analysis, Agent-Based Modeling
 
 ::: notes
-- Willingness to change our mind
+- Willingness to change our mind, questioning assumptions
 :::
 
 # Social dynamic around <br> misinformation on Twitter
