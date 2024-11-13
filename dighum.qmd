@@ -45,6 +45,8 @@ Pixabay image by <a href="https://pixabay.com/de/users/lu94007-10696335/?utm_sou
 ::: notes
 - Core of DigHum for me: shaping
 - In my research area of psych/CSS on the topic of social media, this means...
+- You've probably all heard about these fears people have about social media...
+- Controversial discussions
 
 time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
 Digital days: 16 slides total, 30 min
@@ -247,14 +249,10 @@ Jula image
 
 ## 1) Causal effects of misinformation
 
-::: incremental
 - Matching news posts to create 2 similar groups
   - Emotions in the news, political orientation, followers, ... 
 - Comparison: Unique effect of untrustworthy news sources
 
-:::
-
-::: fragment
 ::: columns
 ::: {.column width="40%"}
 ![](images/randomization.png){width="400"}
@@ -263,7 +261,6 @@ Jula image
 ::: {.column width="40%"}
 ![](images/matching.png){width="400"}
 :::
-::: 
 
 :::
 
