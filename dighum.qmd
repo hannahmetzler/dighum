@@ -34,14 +34,17 @@ Shaping digital technology in line with human values & needs <br><br>
   - mental health
   - extremism & polarization
   - echo chambers & misinformation
+
+![](images/girl-6780681_1280.png){.absolute bottom=180 right="180" width="160"}
+![](images/yin-yang-2024615.svg){.absolute bottom=50 right="30" width="150"}
+
+::: footer
+Pixabay image by <a href="https://pixabay.com/de/users/lu94007-10696335/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6780681">batian lu</a>
+:::
   
 ::: notes
 - Core of DigHum for me: shaping
 - In my research area of psych/CSS on the topic of social media, this means...
-
-images for risks? spiral, trump etc. 
-- Define what “Digital Humanism” means to me
-- Talk about the roots of “Digital Humanism” within their disciplinary traditions
 
 time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
 Digital days: 16 slides total, 30 min
@@ -55,16 +58,22 @@ Thank you: 1
 
 ## Challenges for Digital Humanism in Computional Social Science
 
-- Complex social issues
+- Complex social issues with many influencing factors
   - Intuition vs. evidence
   - What are the root causes?
   - Which solutions address these?
-- Social media companies: Transparency & cooperation
+- Social media companies: 
+   - Transparency & cooperation
+
+![](images/DALLE_minimalist_social_media_misinfo_emotions.webp){.absolute bottom=80 right="20" width="330"}
+
+::: footer
+Image by DALL-E
+
+:::
   
 ::: notes
 - Talk about the challenges of “Digital Humanism” from their point of view
-- Talk about the “methods” that ought to be part of an educational program in
-“Digital Humanism”
 :::
 
 ## Crucial methods and skills
@@ -75,10 +84,14 @@ Thank you: 1
 - Strong statistics skills: Real-world data & reproducibility
 - Big data analysis (text, video...), machine learning, LLMs etc.
 - Complexity science approaches: 
-  - Network analysis, Agent-Based Modeling
+  - E.g. Network analysis, Agent-Based Modeling
+
+
 
 ::: notes
 - Willingness to change our mind, questioning assumptions
+- Talk about the “methods” that ought to be part of an educational program in
+“Digital Humanism”
 :::
 
 # Social dynamic around <br> misinformation on Twitter
