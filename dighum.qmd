@@ -373,7 +373,7 @@ This brings me to another crucial question: ...
 
 - Minority of  [0.1%](https://doi.org/10.1126/science.aau2706), 
 [1%](https://www.doi.org/10.1017/S0003055421000290), [2%](https://doi.org/10.1080/10584609.2024.2325426), 
-[2107 US Wähler](https://www.science.org/doi/10.1126/science.adl4435) (Wahl 2020)
+[2107 US voters](https://www.science.org/doi/10.1126/science.adl4435) in 2020 election
 - Reads and shares **~80%** of misinformation
 
 - Supersharers on Facebook [USA, 2020](https://www.science.org/doi/10.1126/science.adl4435):
