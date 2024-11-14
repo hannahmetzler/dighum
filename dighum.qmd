@@ -48,8 +48,8 @@ Pixabay image by <a href="https://pixabay.com/de/users/lu94007-10696335/?utm_sou
 - You've probably all heard about these fears people have about social media...
 - Controversial discussions
 
-time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
-Digital days: 16 slides total, 30 min
+Time: If I stick to slide content (no story add ons), then 1 slide 2 minutes is fine. 
+Duration:  30 slides, 41 minutes without questions = 82 seconds/slide (1.4 min)
 
 Slide count: 30 = 24
 section titles: -3
