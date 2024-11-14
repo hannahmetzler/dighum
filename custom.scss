@@ -31,6 +31,15 @@ $presentation-h3-font-size: 1em;
   display: none;
 }
 
+// for centering slide content with curly brackets {.center}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh; /* Full viewport height to center vertically */
+}
+
 
 
 //Previous formatting Xaringan

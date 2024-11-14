@@ -1,9 +1,7 @@
 ---
-title: "The Social Dynamics around Misinformation Spreading on Social Media"
-author: "**Mag. Dr. Hannah Metzler** <br> *Complexity Science Hub &  Medical University of Vienna* <br> Digital Humanism Lecture Series"
-date: "13 November 2024"
 format: 
   revealjs:
+    title-slide: false
     footer: https://hannahmetzler.eu/dighum
     transition: 'slide'
     ## Defines the theme of the presentation, both version and style
@@ -13,15 +11,24 @@ format:
     aspect-ratio: 16:9
     slide-number: true
     speakerNotes: true
-    title-slide: false
-title-slide-attributes:
-    data-background-color: "#1f5c99"
-    # data-background-size: cover
-    # data-background-opacity: "0.5"
+    title-slide-attributes:
+        data-background-color: "#1f5c99"
+        # data-background-size: cover
+        # data-background-opacity: "0.5"
 
 #editor
 editor: source
 ---
+
+# The Social Dynamics around Misinformation Spreading on Social Media {.center background-color="#1f5c99"}
+
+**Mag. Dr. Hannah Metzler** <br>
+*Complexity Science Hub &  Medical University of Vienna*
+
+Digital Humanism Lecture Series <br>
+13 November 2024
+
+<small> Slides: https://hannahmetzler.eu/digum  | Recording on [Youtube](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) </small>
 
 ## Digital Humanism & social media
 
